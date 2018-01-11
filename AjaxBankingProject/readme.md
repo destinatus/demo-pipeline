@@ -11,4 +11,4 @@ Run project on Tomcat then hit login.html and login with: Steve 123
 Create your own user if you wish
 Only the login and changing views is finished
 You can submit a withdrawal/deposit but it only sends the information to the server,
-	the server doesn't persist this change to the DB
+	the server doesn't persist this change to the DB     
